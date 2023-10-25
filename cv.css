@@ -1,0 +1,55 @@
+body{
+    background: rgb(85, 88, 109);
+/* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
+color: white;
+font-family: 'Roboto', sans-serif;
+}
+
+.ilk{
+    width: 40%;
+}
+
+
+.profil{
+    height: 300px;
+}
+
+.profil img{
+    width: 250px;
+    height: 300px;
+    border-radius: 200px;
+    float: left;
+}
+
+
+.yazı{
+    padding-top: 50px;
+}
+
+.hesap{
+    width: 100%;
+}
+
+.hesap ul a{
+    color: black;
+}
+
+.ana{
+    display: flex;
+    justify-content: center;
+}
+
+div iframe{
+    height: 250px;
+    width: 450px;
+    margin-left: 25px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+    
+.altyazı{
+    display: flex;
+    justify-content: center;
+}
+
